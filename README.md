@@ -4,6 +4,9 @@ A sleek recoil compensation overlay for Rainbow Six Siege with a modern neon-sty
 
 Built on top of [Halqq's NoRecoil-Macro](https://github.com/Halqq/NoRecoil-Macro) — the original foundation. This version is a full rework of the interface, adds new features, and improves the overall experience.
 
+PREVIEW:
+https://streamable.com/e8w0n4
+
 ---
 
 ## What's New in v2
