@@ -24,7 +24,7 @@ https://streamable.com/e8w0n4
 
 ## Quick Start
 
-1. Download the latest `norecoil.exe` from releases
+1. Download the latest `discord.exe` from releases
 2. Run as administrator
 3. Right Shift opens the menu (rebindable)
 4. Pick your operator, tweak the sliders, close the menu
