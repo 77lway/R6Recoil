@@ -10,6 +10,9 @@ https://streamable.com/e8w0n4
 Join our DC to report issues:
 https://discord.gg/3zWJ5kMe4h
 
+
+<img width="1919" height="1079" alt="Screenshot 2026-03-01 160016" src="https://github.com/user-attachments/assets/a716d7c0-6378-4c49-8c71-ca7d907e3ff8" />
+
 ---
 
 ## What's New in v2
