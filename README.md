@@ -7,6 +7,9 @@ Built on top of [Halqq's NoRecoil-Macro](https://github.com/Halqq/NoRecoil-Macro
 PREVIEW:
 https://streamable.com/e8w0n4
 
+Join our DC to report issues:
+https://discord.gg/dfPJjrSUGU
+
 ---
 
 ## What's New in v2
