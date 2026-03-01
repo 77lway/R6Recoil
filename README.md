@@ -8,7 +8,7 @@ PREVIEW:
 https://streamable.com/e8w0n4
 
 Join our DC to report issues:
-https://discord.gg/dfPJjrSUGU
+https://discord.gg/3zWJ5kMe4h
 
 ---
 
